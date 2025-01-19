@@ -12,20 +12,20 @@ const users = [
 const customers = [
   {
     id: 'd6e15727-9fe1-4961-8c5b-ea44a9bd81aa',
-    name: 'Evil Rabbit',
+    name: 'Pahis Pupu',
     email: 'evil@rabbit.com',
     image_url: '/customers/evil-rabbit.png',
   },
   {
     id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
-    name: 'Delba de Oliveira',
-    email: 'delba@oliveira.com',
+    name: 'Tapio de Oliveira',
+    email: 'tapio@oliveira.com',
     image_url: '/customers/delba-de-oliveira.png',
   },
   {
     id: '3958dc9e-742f-4377-85e9-fec4b6a6442a',
-    name: 'Lee Robinson',
-    email: 'lee@robinson.com',
+    name: 'Leena Robinson',
+    email: 'leena@robinson.com',
     image_url: '/customers/lee-robinson.png',
   },
   {
