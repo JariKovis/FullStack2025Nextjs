@@ -1,7 +1,7 @@
 import { GlobeAltIcon } from "@heroicons/react/24/outline";
 import { CircleStackIcon } from "@heroicons/react/24/solid";
 import { lusitana } from "@/app/ui/fonts";
-import LaureaLogo from "@/public/Laurealogo.svg";
+//import LaureaLogo from "@/public/Laurealogo.svg";
 
 export default function AcmeLogo() {
   return (
